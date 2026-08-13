@@ -114,7 +114,7 @@ More result visuals (feature importance ranking) are in [`results/`](./results).
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/network-intrusion-detection-nsl-kdd.git
+git clone https://github.com/Houssaynimaryame/network-intrusion-detection-nsl-kdd.git
 cd network-intrusion-detection-nsl-kdd
 
 # Install dependencies
